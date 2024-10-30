@@ -4,7 +4,7 @@ I'm Laura, a passionate Web Application Development Student based in Spain. With
 
 About Me
 
-    🌱 I’m currently learning Java, C#, SQL.
+    🌱 I’m currently learning Java, C#, SQL, HTML, CSS, JavaScript, PHP.
     😄 Pronouns: she/her.
     ⚡ Fun fact: I can speak Spanish, English, Italian and Japanese.
 
