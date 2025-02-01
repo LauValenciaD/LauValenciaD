@@ -8,19 +8,18 @@ About Me
     😄 Pronouns: she/her.
     ⚡ Fun fact: I can speak Spanish, English, Italian and Japanese.
 
-<!---My Interests
+My best projects
 
-    [Interest 1]
-    [Interest 2]
-    [Interest 3]
+- [App del Tiempo](https://lauvalenciad.github.io/App-ElTiempo-AEMET/)    
+- [Snake Game](https://lauvalenciad.github.io/Snake-game-jQuery/)
+- [Xiaomi web clone](https://lauvalenciad.github.io/Xiaomi-web-clone/)
 
-Get in Touch
+<!--- Get in Touch
 
 📧 Email: WIP
 
 🔗 LinkedIn: [Your LinkedIn Profile URL]
 
-🐦 Twitter: [Your Twitter Handle]
 
 💼 Portfolio: [Link to your portfolio, if applicable] --->
 
